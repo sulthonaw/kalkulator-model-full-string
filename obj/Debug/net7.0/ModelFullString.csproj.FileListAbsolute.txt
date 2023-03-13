@@ -1,0 +1,15 @@
+D:\dotnet\Kalkulator\ModelFullString\bin\Debug\net7.0\ModelFullString.exe
+D:\dotnet\Kalkulator\ModelFullString\bin\Debug\net7.0\ModelFullString.deps.json
+D:\dotnet\Kalkulator\ModelFullString\bin\Debug\net7.0\ModelFullString.runtimeconfig.json
+D:\dotnet\Kalkulator\ModelFullString\bin\Debug\net7.0\ModelFullString.dll
+D:\dotnet\Kalkulator\ModelFullString\bin\Debug\net7.0\ModelFullString.pdb
+D:\dotnet\Kalkulator\ModelFullString\obj\Debug\net7.0\ModelFullString.csproj.AssemblyReference.cache
+D:\dotnet\Kalkulator\ModelFullString\obj\Debug\net7.0\ModelFullString.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Kalkulator\ModelFullString\obj\Debug\net7.0\ModelFullString.AssemblyInfoInputs.cache
+D:\dotnet\Kalkulator\ModelFullString\obj\Debug\net7.0\ModelFullString.AssemblyInfo.cs
+D:\dotnet\Kalkulator\ModelFullString\obj\Debug\net7.0\ModelFullString.csproj.CoreCompileInputs.cache
+D:\dotnet\Kalkulator\ModelFullString\obj\Debug\net7.0\ModelFullString.dll
+D:\dotnet\Kalkulator\ModelFullString\obj\Debug\net7.0\refint\ModelFullString.dll
+D:\dotnet\Kalkulator\ModelFullString\obj\Debug\net7.0\ModelFullString.pdb
+D:\dotnet\Kalkulator\ModelFullString\obj\Debug\net7.0\ModelFullString.genruntimeconfig.cache
+D:\dotnet\Kalkulator\ModelFullString\obj\Debug\net7.0\ref\ModelFullString.dll

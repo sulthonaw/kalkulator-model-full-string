@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ModelFullString/1.0.0": {
+        "runtime": {
+          "ModelFullString.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ModelFullString/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
