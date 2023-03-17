@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\Kalkulator\\ModelFullString\\ModelFullString.csproj",
+      "projectUniqueName": "D:\\github\\kalkulator-model-full-string\\ModelFullString.csproj",
       "projectName": "ModelFullString",
-      "projectPath": "D:\\dotnet\\Kalkulator\\ModelFullString\\ModelFullString.csproj",
+      "projectPath": "D:\\github\\kalkulator-model-full-string\\ModelFullString.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\Kalkulator\\ModelFullString\\obj\\",
+      "outputPath": "D:\\github\\kalkulator-model-full-string\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nWK5i9Cerx+3NhmnHQI/pKLyyTrgJ27eShCEJCv8zqQF3SmzzoyOuZiRQcp9GeFRgc6Gf4dbSb/79trxyOHr+g==",
+  "dgSpecHash": "3ztKfE4DmK34nzpNeYDLPVVyGIaR35HrNbrbSXPvUdk1T3TvZRzyHwOJlU7sNuuWfUgbfqH3aqN2mAam9mdpIg==",
   "success": true,
-  "projectFilePath": "D:\\dotnet\\Kalkulator\\ModelFullString\\ModelFullString.csproj",
+  "projectFilePath": "D:\\github\\kalkulator-model-full-string\\ModelFullString.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

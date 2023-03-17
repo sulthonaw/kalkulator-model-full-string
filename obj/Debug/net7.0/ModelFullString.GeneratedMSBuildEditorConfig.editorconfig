@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ModelFullString
-build_property.ProjectDir = D:\dotnet\Kalkulator\ModelFullString\
+build_property.ProjectDir = D:\github\kalkulator-model-full-string\
