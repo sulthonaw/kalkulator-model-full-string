@@ -1,6 +1,8 @@
 # Kalkulator Model Full String
 Kalkulator dengan inputan full string `(cth : satu ditambah lima)` menggunakan bahasa pemrograman c#
 
+![](https://github.com/sulthonaw/kalkulator-model-full-string/blob/main/assets/ezgif.com-video-to-gif.gif)
+
 ### Contoh: 
 ```
 Input : satu ditambah lima
