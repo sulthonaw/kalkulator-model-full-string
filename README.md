@@ -16,7 +16,7 @@ Saran dokumentasi:
 
 ## Usage
 1. Sebelum anda menggunakan kalkulator ini, pastikan anda sudah memenuhi syarat installasi agar program berjalan sesuai alurnya.
-2. Clone repository kedalam komputer anda dan buka di IDE Visual Studi0.
+2. Clone repository kedalam komputer anda dan buka di IDE Visual Studio.
 3. Run program atau anda bisa menggunakan shortcut F5, dan anda akan melihat sebuah console dengan output sebagai berikut:
 
     ```
