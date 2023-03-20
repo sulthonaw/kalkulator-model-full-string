@@ -27,4 +27,12 @@ Saran dokumentasi:
     - Angka yang diinputkan masih `0 <= 11` atau `enol <= sebelas`
     - Jika anda menginputkan lebih dari batas, kode tidak akan berjalan sesuai yang diinginkan
     - Jika output melebihi `0 < 20`. Maka akan menghasilkan output berupa angka 
+    - Berikut merupakan tabel acuan untuk melakukan operasi aritmatik:
+    
+        | Operasi   | Kata  | 
+        |----------|:-------------:|
+        | Tambah |  `ditambah` |
+        | Kurang |    `dikurangi`   |  
+        | Kali | `dikali` |  
+        | Bagi | `dibagi` |  
 4. Jika anda masih bingung, anda bisa melihat live demo setelah judul.
